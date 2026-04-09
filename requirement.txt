@@ -4,3 +4,4 @@ pandas
 plotly
 pandas-ta-classic
 numpy
+mplfinance
